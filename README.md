@@ -7,4 +7,7 @@ This is my Professional Portfolio
 
 Git and Github
 SSH
-# Brew
+HTML
+CSS
+Font Awesome
+Google Fonts
